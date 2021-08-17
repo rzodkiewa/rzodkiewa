@@ -8,11 +8,12 @@
 
 #### ⚒ Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
 ![LUA](https://img.shields.io/badge/-LUA-black?style=flat&logo=lua)
 ![PYTHON](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
 <br>
 ![InteliJ Idea](https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea)
